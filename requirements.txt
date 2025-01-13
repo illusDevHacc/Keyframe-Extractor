@@ -1,0 +1,6 @@
+opencv-python
+glob2
+os
+sys
+colorama
+shutil
